@@ -33,6 +33,7 @@
     #team .frontside .card,
     #team .backside .card {
         min-height: 435px !important;
+        max-height: 435px !important;
     }
 }
 @media (min-width: 768px) {
