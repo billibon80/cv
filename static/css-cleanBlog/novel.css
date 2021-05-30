@@ -45,7 +45,7 @@
   background-color: #5A55A3;
   background-image: #5A55A3;
   color: #fff0 !important;
-  background-image: url('static/assets/img-novel/1.jpg') !important;
+  background-image: url(https://billibon80.github.io/cv/static/assets/img-novel/1.jpg) !important;
   border: none;
 }
 #novel div.bhoechie-tab-menu div.list-group>a.active:after{
