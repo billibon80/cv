@@ -276,8 +276,9 @@
 }
 
 .masthead button {
-    margin: 0 0 15px 66%;
+    margin: 0 10% 5% 0;
     position: absolute;
     z-index: 1;
     bottom: 1%;
+    right: 0;
 }
