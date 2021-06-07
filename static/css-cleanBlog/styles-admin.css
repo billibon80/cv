@@ -246,3 +246,10 @@ textarea {
  .release_date {
 	 font-weight: normal;
 }
+.red {
+    display: block;
+}
+.black {
+    color: black;
+    display: block;
+}

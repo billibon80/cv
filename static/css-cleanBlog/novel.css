@@ -99,6 +99,7 @@
 
 #novel .caption {
     /*font-size: 1.2rem !important;*/
+    text-align: justify;
 }
 
 #novel .list-group a {
@@ -132,4 +133,11 @@
 
 #novel img {
     object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#novel .gif-img {
+    max-height: 150px;
+    object-fit: contain !important;
 }
