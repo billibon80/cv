@@ -141,3 +141,7 @@
     max-height: 150px;
     object-fit: contain !important;
 }
+
+#novel .carousel-caption span {
+    text-align: center !important;
+}
