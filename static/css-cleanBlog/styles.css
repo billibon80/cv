@@ -482,8 +482,8 @@ mark,
     background-size:
     contain;
     position: absolute;
-    right: 80%;
-    bottom: 92%;
+    left: 0%;
+    top: 0%;
     z-index: 1;
     background-repeat: no-repeat;
 }
